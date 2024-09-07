@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Kamlesh Sahani</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-
 - 🌱 **Learning:** Data structures and algorithms
 - 👯 **Seeking Collaboration:** Open Source Projects
 - 🤝 **Looking For:** Help with Complex UI Challenges
