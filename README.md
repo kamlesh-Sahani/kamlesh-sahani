@@ -20,6 +20,7 @@
   <a href="https://leetcode.com/u/kamlesh_dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 <h3 align="left">Latest Projects:</h3>
+
 <table align="left">
   <thead>
     <tr>
