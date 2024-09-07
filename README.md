@@ -1,7 +1,8 @@
 ![logo](https://github.com/user-attachments/assets/9e69741e-2c35-498a-9712-ab0fb8566dea)
 
-<h1 align="center">Hi 👋, I'm Kamlesh Sahani</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<p align="right">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF6F61&width=800&height=60&lines=Hi+👋+I'm+Kamlesh+Sahani!;Full+Stack+Developer+|+React+|+Next.js+|+Node.js+|+Express.js+|+MongoDB+|;Crafting+Seamless+Web+Experiences;Passionate+About+Tech+and+Innovation;Exploring+New+Technologies+Every+Day;Let's+Build+Something+Amazing+Together!" align="center" />
+</p>
 
 - 🌱 **Learning:** Data structures and algorithms
 - 👯 **Seeking Collaboration:** Open Source Projects
