@@ -7,7 +7,7 @@
 - 🌱 **Learning:** Data structures and algorithms
 - 👯 **Seeking Collaboration:** Open Source Projects
 - 🤝 **Looking For:** Help with Complex UI Challenges
-- 👨‍💻 **Explore My Projects:** [GitHub](https://github.com/kamlesh-Sahani)
+- 👨‍💻 **Explore My Projects:** [GitHub](https://github.com/kamlesh-Sahani?tab=repositories)
 - 💬 **Ask Me About:** React.js, TypeScript, and Modern Web Technologies
 - 📫 **Reach Me At:** kamleshbca2005@gmail.com
 - 📄 **Experience Details:** [LinkedIn](https://www.linkedin.com/in/kamlesh-sahani-692ab7247)
