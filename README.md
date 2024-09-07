@@ -1,6 +1,4 @@
 ![logo](https://github.com/user-attachments/assets/9e69741e-2c35-498a-9712-ab0fb8566dea)
-![Screenshot from 2024-09-07 19-21-36](https://github.com/user-attachments/assets/c1711dff-3d6f-4acb-8ae2-4223b272b9a6)
-
 
 <h1 align="center">Hi 👋, I'm Kamlesh Sahani</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
